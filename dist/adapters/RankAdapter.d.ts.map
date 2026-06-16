@@ -1,0 +1,1 @@
+{"version":3,"file":"RankAdapter.d.ts","sourceRoot":"","sources":["../../src/adapters/RankAdapter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,kBAAkB,CAAC;AAG/C,qBAAa,WAAY,SAAQ,WAAW;IAC1C,MAAM,CAAC,GAAG,EAAE;QAAE,cAAc,EAAE,MAAM,EAAE,CAAA;KAAE,GAAG,UAAU;CAkBtD"}
